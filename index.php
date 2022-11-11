@@ -1,4 +1,7 @@
 <?php
+session_start();
+
+    $_SESSION;
 
 ?>
 
@@ -12,6 +15,6 @@
     <a href="logout.php">Log Out</a>
     <h1>This is index page</h1>
     <br>
-    Hello User
+    Hello Aziz
 </body>
 </html>
